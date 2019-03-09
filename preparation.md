@@ -8,6 +8,8 @@
 
 ## Tools Wajib
 
+**Tugas pertama kalian adalah menginstall semua tools ini**
+
 ### Install Code Editor
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Atom](https://atom.io/)
@@ -21,8 +23,5 @@ Kita perlu menginstall **NodeJS** agar code kita bisa berjalan di komputer kita 
 
 [Download NodeJS disini](https://nodejs.org/en/download/)
 Pilih sesuai OS kalian ya
-* [Install NodeJS for Windows](https://www.youtube.com/watch?v=gHuIKptS0Qg)
-* [Install NodeJS for Ubuntu](https://www.youtube.com/watch?v=wEW5nYO09tg)
-* [Install NodeJS for MacOS](https://www.youtube.com/watch?v=TQks1p7xjdI)
 
 Baik, saya rasa untuk sekarang ini persiapan sudah cukup. Terima kasih
