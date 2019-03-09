@@ -11,3 +11,4 @@ if you dont, the other people will have one step ahead. You want it ?
 * [HTML](https://github.com/bashocode/javascript/blob/master/first%20week/html.md)
 * [CSS](https://github.com/bashocode/javascript/blob/master/first%20week/css.md)
 * [FreeCodeCamp](https://github.com/bashocode/javascript/blob/master/first%20week/freecodecamp.md)
+* [GIT](https://github.com/bashocode/javascript/blob/master/first%20week/git.md)
