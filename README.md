@@ -8,3 +8,4 @@ if you dont, the other people will have one step ahead. You want it ?
 ## Lets Begin !
 
 * [Preparation](https://github.com/bashocode/javascript/blob/master/preparation.md)
+* [HTML](https://github.com/bashocode/javascript/blob/master/first/html.md)
