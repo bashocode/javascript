@@ -9,3 +9,4 @@ if you dont, the other people will have one step ahead. You want it ?
 
 * [Preparation](https://github.com/bashocode/javascript/blob/master/preparation.md)
 * [HTML](https://github.com/bashocode/javascript/blob/master/first/html.md)
+* [HTML](https://github.com/bashocode/javascript/blob/master/first/css.md)
