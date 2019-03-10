@@ -2,7 +2,7 @@
 
 ## Create Github Account
 
-Tugas kalian adalah membuat akun github !!
+Tugas kalian adalah membuat akun [github](https://github.com/) !!
 
 ### Set config git
 
