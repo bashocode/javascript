@@ -12,6 +12,7 @@
 
 ### Install Code Editor
 * [Visual Studio Code](https://code.visualstudio.com/)
+atau
 * [Atom](https://atom.io/)
 
 ### Install Git and Git Bash
