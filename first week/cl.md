@@ -11,22 +11,37 @@ perintah ini di gunakan untuk berpindah directory (folder), sesuai namanya yakni
     * **cd namaFolder** masuk ke folder tujuan
     * **cd namaFolder/namaSubFolder** masuk ke folder di dalam folder
     * **cd f/o/l/d/e/r** masuk ke dalam folder yang di dalamnya ada folder di dalamnya ada folder lagi dan masuk lagi ke dalam folder di dalamnya dan kemudian masuk lagi ke folder di dalamnya lagi (gimana? bingung kan ?)
-* ls
+
+* **ls**
+
 ls adalah list directory, yap ini perintah di gunakan untuk melihat ada apa aja sih di dalam sebuah folder itu
-* mkdir
+* **mkdir**
+
 make directory, hmm sesuai namanya, perintah ini untuk membuat folder baru
-* clear
+
+* **clear**
+
 clear itu di gunakan untuk membersihkan layar spion, hehe
 bukan bukan, maksudnya membersihkan layar terminal kamu, agar semua perintah dan isi nya terhapus biar tidak memakan tempat gitu, coba coba aja ya untuk lebih jelasnya
-* rm
+
+* **rm**
+
 digunakan untuk menghapus file atau folder
-* mv
+
+* **mv**
+
 move, tau lah pastinya apa maksudnya haha. betul ini untuk memindahkan file atau folder
-* cp
+
+* **cp**
+
 copy file atau folder
-* cat
+
+* **cat**
+
 perintah untuk melihat isi file
-* sudo
+
+* **sudo**
+
 ini di perlukan biasanya saat komputer butuh akses root, aka akses administrator.
 
 ### o i ya, sebenarnya command line di gunakan dimana sih ?
