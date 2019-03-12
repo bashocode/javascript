@@ -54,7 +54,7 @@ Sebenarnya ada banyak cara untuk upload ke github repositories kita, bisa pakai 
 ![file](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2023-00-38.png)
 
 1. Setelah siap di upload ketikkan:
-    * **git add .** => fungsinya untuk menambahkan semua file di dalam directorynya atau gunakan **git add [nama_file]** untuk upload satu file saja
+    * **git add .** => *git add titik* fungsinya untuk menambahkan semua file di dalam directorynya atau gunakan **git add [nama_file]** untuk upload satu file saja
     * **git commit -m "pesan kamu"** => untuk membantu orang lain tau apa yang sebenarnya kamu upload, contohnya "upload file html" dan saya sarankan jangan asal ya, kelihatan ga professional nanti kalau github kamu di cek oleh calon boss haha *ups*
     * **git status** => sifatnya opsional, untuk cek statusnya saja
     * **git pull origin master** => nah ini sebenarnya untuk cek apakah di github kalian ada orang lain yang update atau tidak, jadi kalau misalkan ada yang update maka otomatis file kalian berubah sesuai yang di github, jadi hati hati ya menggunakan perintah ini, saya sarankan kalau repo kalian hanya kalian sendiri yang jadi contributor, maka cukup langkahi saja step ini
