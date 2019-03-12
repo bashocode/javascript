@@ -38,7 +38,7 @@ Sebenarnya ada banyak cara untuk upload ke github repositories kita, bisa pakai 
 1. Masuk ke akun kalian, dan pilih repositories yang kalian buat sebelumnya ya.
 ![repo](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2022-47-26.png)
 
-1. Lalu carilah tombol berwarna hijau bertuliskan **clone or download" lalu copy linknya ya
+1. Lalu carilah tombol berwarna hijau bertuliskan **clone or download** lalu copy linknya ya
 ![clone](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2022-47-36.png)
 
 1. Setelah itu masuk ke terminal kalian dan masuk ke directory/folder yang kalian inginkan
