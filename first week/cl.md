@@ -51,3 +51,5 @@ command line di gunakan di terminal ya, kalau windows namanya cmd. tentunya cara
 [Perintah linux lainnya](https://www.lombokfoss.com/perintah-dasar-linux/)
 
 silakan cari referensi tentang command line lain yang sekiranya kalian butuhkan ya. terima kasih.
+
+**Jangan lupa di enter ya setelah kalian mengetik perintah di terminal**
