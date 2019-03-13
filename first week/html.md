@@ -1,6 +1,8 @@
 # Belajar HTML
 
-untuk penjelaskan HTML silahkan teman-teman baca blog kami [disini](https://waroengilmukita.wordpress.com/2019/03/12/tutorial-membuat-website-3-pengertian-html/) setelah selesai mengerjakan semua materi silahkan teman-teman kerjakan untuk mengukur kemampuan teman-teman kami menantang kalian untuk mengerjakan exercise HTML di [Codecademy](https://www.codecademy.com) dan screenshot hasil belajar kalian.
+untuk penjelaskan HTML silahkan teman-teman baca blog kami [disini](https://waroengilmukita.wordpress.com/2019/03/12/tutorial-membuat-website-3-pengertian-html/)
+
+silahkan teman-teman kerjakan exercise HTML di [Codecademy](https://www.codecademy.com) dan screenshot hasil belajar kalian.
 
 [Codecademy HTML](https://www.codecademy.com/learn/learn-html)
 
