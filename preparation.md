@@ -20,7 +20,7 @@ atau
 
 ### Install Node JS
 [Apa itu NodeJS ?](https://www.codepolitan.com/mengenal-nodejs-5880234fe9ae3)
-Kita perlu menginstall **NodeJS** agar code kita bisa berjalan di komputer kita sendiri tanpa harus menggunakan browser, singkatnya *NodeJS* itu mempermudah kita untuk belajar JavasScript!
+Kita perlu menginstall **NodeJS** agar code javascript kita bisa berjalan di komputer kita sendiri tanpa harus menggunakan browser, singkatnya *NodeJS* itu mempermudah kita untuk belajar JavaScript!
 
 [Download NodeJS disini](https://nodejs.org/en/download/)
 Pilih sesuai OS kalian ya
