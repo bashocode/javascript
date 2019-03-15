@@ -21,7 +21,7 @@ oh iya, apa itu **--global** ? ini di gunakan agar kita tidak perlu mengetik per
 ![profile](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2022-31-22.png)
 
 1. Setelah itu klik repositories
-![repo]()
+![repo](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2022-31-29.png)
 
 1. Dan klik tombol hijau bernama **new**, setelah itu tampilannya akan seperti ini
 ![new](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2022-31-37.png)
