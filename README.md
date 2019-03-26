@@ -14,4 +14,4 @@ if you dont, the other people will have one step ahead. You want it ?
 - [freeCodeCamp](https://github.com/bashocode/javascript/blob/master/first%20week/freecodecamp.md)
 - [Command Line](https://github.com/bashocode/javascript/blob/master/first%20week/cl.md)
 - [GIT - Make the World Know Your Code](https://github.com/bashocode/javascript/blob/master/first%20week/git.md)
-- [JavaScript - The Art of Code](https://github.com/bashocode/javascript/)
+- [JavaScript - The Art of Code](https://github.com/bashocode/javascript/blob/master/second%20week/javascript.md)
