@@ -4,6 +4,8 @@
 
 Tugas kalian adalah membuat akun [github](https://github.com/) !!
 
+[Intro to Git](https://youtu.be/XYtRZOreqRE)
+
 ## Git Tutorial
 
 1. [How to set git configuration ?](https://github.com/bashocode/javascript/blob/master/first%20week/git/setting-config.md)
