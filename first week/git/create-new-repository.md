@@ -1,5 +1,7 @@
 ## Create new repository
 
+[Tutorial on Youtube](https://www.youtube.com/watch?v=jZgfqr8870g&list=PL23EfJ905QNOHff6VrK3BAh462H2r_EC8&index=5&t=0s)
+
 1. Masuk ke profile git kalian, tampilannya seperti ini.
 
 ![profile](https://github.com/bashocode/javascript/blob/master/first%20week/img/Screenshot%20from%202019-03-12%2022-31-22.png)
