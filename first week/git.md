@@ -2,9 +2,9 @@
 
 ## Create Github Account
 
-Tugas kalian adalah membuat akun [github](https://github.com/) !!
+[Intro to Git on Youtube](https://youtu.be/XYtRZOreqRE)
 
-[Intro to Git](https://youtu.be/XYtRZOreqRE)
+Tugas kalian adalah membuat akun [github](https://github.com/) !!
 
 ## Git Tutorial
 
