@@ -1,5 +1,7 @@
 ## How to upload github
 
+[Tutorial on Youtube](https://youtu.be/wOFcEfQea-U)
+
 Sebenarnya ada banyak cara untuk upload ke github repositories kita, bisa pakai git remote, lalu via upload langsung tanpa terminal, tapi disini kita akan gunakan cara mudah terlebih dahulu, yakni git clone.
 
 1. Masuk ke akun kalian, dan pilih repositories yang kalian buat sebelumnya ya.
