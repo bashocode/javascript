@@ -68,7 +68,7 @@ let eat = "don't, you're diet";
 tapi semua kembali ke masing masing ya, karena bisa saja menggunakan seperti ini
 
 ```javascript
-let eat = "don't, you're on diet";
+let eat = 'don\'t, you\'re on diet';
 ```
 
 #### Number
