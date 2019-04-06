@@ -71,7 +71,7 @@ tapi semua kembali ke masing masing ya, karena bisa saja menggunakan seperti ini
 let eat = 'don\'t, you\'re on diet';
 ```
 
-#### Number
+##### Number
 
 number adalah angka, wkwkwkwk, namun di JavaScript kita bisa menggunakan:
 
@@ -82,7 +82,7 @@ let speed = 120.5;
 
 ingat tanpa tanda petik ya.
 
-#### Boolean
+##### Boolean
 
 boolean hanya mempunyai dua value, yakni true atau false
 
