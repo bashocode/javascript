@@ -21,6 +21,7 @@ anime[0] = "something";
 // silakan di coba sendiri
 
 anime[3] = "else";
+anime[4] = 23; // array juga bisa di isi tipe data lain selain string, contohnya number.
 
 // penasaran hasilnya ?
 ```
