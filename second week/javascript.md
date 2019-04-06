@@ -5,3 +5,4 @@
 1. [Window ?](https://github.com/bashocode/javascript/blob/master/second%20week/js/window.md)
 1. [Variable](https://github.com/bashocode/javascript/blob/master/second%20week/js/variable.md)
 1. [Variable Naming](https://github.com/bashocode/javascript/blob/master/second%20week/js/varname.md)
+1. [Data Types - Primitive](https://github.com/bashocode/javascript/blob/master/second%20week/js/valueOfVar.md)
