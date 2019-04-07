@@ -50,3 +50,56 @@ kalau 4 ** 1 maka 4
 kalau 4 ** 3 maka 4 * 4 * 4
 kalau 4 ** 4 maka 4 * 4 * 4 * 4
 ```
+
+Selain yang di atas, kita juga punya nih yang namanya **increment (++)** dan **decrement (--)**
+
+#### Increment
+
+Increment itu pertambahan satu, contohnya
+
+```javascript
+let number = 10;
+
+console.log(number++); // 10
+```
+
+Hasilnya akan berbeda dengan
+
+```javascript
+let number = 10;
+
+console.log(++number); // 11
+```
+
+Kenapa ? karena komputer membaca dari _atas ke bawah dan dari kiri ke kanan_ maka penempatan sesuatu sangat berpengaruh
+
+```
+number++ akan menjalankan number terlebih dahulu yakni 10 baru kemudian di tambahkan.
+
+Sedangkan ++number akan menjalankan pertambahan terlebih dahulu baru kemudian menampilkan si number
+```
+
+Untuk membuktikannya mari jalankan kode berikut
+
+```javascript
+let number = 10;
+
+console.log(number++); // 10
+console.log(number); // 11
+```
+
+#### Decrement
+
+Prinsip decrement juga sama seperti increment, namun decrement mengurangi bukan menambah
+
+```javascript
+let number = 10;
+
+console.log(number--); // 10
+```
+
+```javascript
+let number = 10;
+
+console.log(--number); // 9
+```
