@@ -9,4 +9,4 @@
    1. [Intro to Object](https://github.com/bashocode/javascript/blob/master/second%20week/js/basicObject.md)
    1. [Intro to Array](https://github.com/bashocode/javascript/blob/master/second%20week/js/basicArray.md)
    1. [Intro to Function](https://github.com/bashocode/javascript/blob/master/second%20week/js/basicFuntion.md)
-   1. [More from Console]()
+   1. [More from Console](https://github.com/bashocode/javascript/blob/master/second%20week/js/console.md)
