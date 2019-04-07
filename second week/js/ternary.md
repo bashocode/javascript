@@ -3,6 +3,12 @@
 Sebuah sekolah ingin memilah siswa yang lulus dan yang tidak, yang nilainya 80 keatas akan lulus dan yang di bawahnya akan gagal.
 
 ```javascript
+/* Algoritma
+Kita harus tau nilai muridnya
+Lalu bandingkan apakah nilai murid di atas 80
+Jika iya maka lulus, sedangkan
+Jika tidak maka tidak lulus
+*/
 const gradePoint = 80;
 const isGraduated = gradePoint >= 80 ? "lulus" : "tidak lulus";
 
