@@ -15,8 +15,8 @@ console.log(true && false); // False
 Sedangkan **||** akan bernilai **true** jika _salah satu value bernilai true_
 
 ```javascript
-console.log(true && true); // True
-console.log(false && false); // False
+console.log(true || true); // True
+console.log(false || false); // False
 // Dan false jika keduanya false
 ```
 
