@@ -17,3 +17,4 @@
    1. Comparison
       1. [Relational](https://github.com/bashocode/javascript/blob/master/second%20week/js/comparison.md)
       1. [Equality](https://github.com/bashocode/javascript/blob/master/second%20week/js/equality.md)
+   1. [Ternary](https://github.com/bashocode/javascript/blob/master/second%20week/js/ternary.md)
