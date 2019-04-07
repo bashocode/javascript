@@ -18,7 +18,7 @@ false;
 undefined;
 null;
 0;
-(""); // string kosong
+""; // string kosong
 NaN;
 ```
 
