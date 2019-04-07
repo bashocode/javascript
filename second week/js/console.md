@@ -22,6 +22,7 @@ console.table(datas);
 ```
 
 Maka hasilnya akan berupa table seperti ini:
+
 ![table](https://github.com/bashocode/javascript/blob/master/second%20week/js/pic/Screenshot%20from%202019-04-07%2013-45-28.png)
 
 Dan masih banyak contoh lain seperti
