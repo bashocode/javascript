@@ -21,3 +21,4 @@
    1. Logical
       1. [Boolean](https://github.com/bashocode/javascript/blob/master/second%20week/js/logical.md)
       1. [non-Boolean](https://github.com/bashocode/javascript/blob/master/second%20week/js/logically.md)
+   1. [Bitwise - Opsional](https://github.com/bashocode/javascript/blob/master/second%20week/js/bitwise.md)
