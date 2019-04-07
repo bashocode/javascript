@@ -13,3 +13,7 @@
    1. [More from Console](https://github.com/bashocode/javascript/blob/master/second%20week/js/console.md)
 1. Operators in JavaScript
    1. [Arithmetic](https://github.com/bashocode/javascript/blob/master/second%20week/js/arithmetic.md)
+   1. [Assignment](https://github.com/bashocode/javascript/blob/master/second%20week/js/assignment.md)
+   1. Comparison
+      1. [Relational]()
+      1. [Equality]()
