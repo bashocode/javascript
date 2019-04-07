@@ -12,7 +12,7 @@ console.log(isGraduated); // Lulus
 Comparison Operator akan menghasilkan true atau false, dan dengan ternary kita bisa mengubah true atau false menjadi yang kita inginkan,
 
 ```
-valueOne > valueTwo ? "outputOne" : "outputTwo"
+valueOne > valueTwo ? "outputTrue" : "outputFalse"
 ```
 
 Ingat! ada tanda **?** dan **:**
