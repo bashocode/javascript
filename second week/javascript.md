@@ -23,3 +23,7 @@
       1. [non-Boolean](https://github.com/bashocode/javascript/blob/master/second%20week/js/logically.md)
    1. [Bitwise - optional](https://github.com/bashocode/javascript/blob/master/second%20week/js/bitwise.md)
    1. [Precedence](https://github.com/bashocode/javascript/blob/master/second%20week/js/precedence.md)
+   1. [Exercise - Swapping Variable](https://github.com/bashocode/challenge/blob/master/neko/changeUs.js)
+1. Conditions in JavaScript
+   1. [IF - ELSE](https://github.com/bashocode/javascript/blob/master/second%20week/js/ifElse.md)
+   1. [Exercise - Rock, Paper, and Scissor](https://github.com/bashocode/challenge/blob/master/neko/rps.js)
