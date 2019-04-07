@@ -18,3 +18,6 @@
       1. [Relational](https://github.com/bashocode/javascript/blob/master/second%20week/js/comparison.md)
       1. [Equality](https://github.com/bashocode/javascript/blob/master/second%20week/js/equality.md)
    1. [Ternary](https://github.com/bashocode/javascript/blob/master/second%20week/js/ternary.md)
+   1. Logical
+      1. [Boolean](https://github.com/bashocode/javascript/blob/master/second%20week/js/logical.md)
+      1. [Non-Boolean](https://github.com/bashocode/javascript/blob/master/second%20week/js/logically.md)
