@@ -35,7 +35,9 @@ di dalam tanda kurung (), kita punya:
     intitalExpression => yakni awal mula kita mulai
     condition => kapan kita berhenti
     incrementExpression => pertambahan atau pengurangan
-lalu di dalam kurung kurawal {}, kita bisa menulis banyak hal, bahkan kita bisa menambahkan for lagi di dalamnya atau if else, atau bahkan dua duanya
+lalu di dalam kurung kurawal {}, kita bisa menulis banyak hal,
+bahkan kita bisa menambahkan for lagi di dalamnya atau if else,
+atau bahkan dua duanya
 ```
 
 ```javascript
