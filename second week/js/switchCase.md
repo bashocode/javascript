@@ -86,4 +86,6 @@ switch (bulan) {
 console.log(bulan, some);
 ```
 
+Bagaimana jika kita lupa untuk menambahkan break ? Ya ! Semua statement akan di jalankan dari case yang terpilih sampai case terakhir.
+
 Dan kondisi diatas bisa kita rubah ke dalam IF-ELSE loh, mau tau ? Coba aja
