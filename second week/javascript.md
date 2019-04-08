@@ -28,4 +28,4 @@
    1. [IF ELSE](https://github.com/bashocode/javascript/blob/master/second%20week/js/ifElse.md)
    1. [Exercise - Rock, Paper, and Scissor](https://github.com/bashocode/challenge/blob/master/neko/rps.js)
    1. [Switch Case](https://github.com/bashocode/javascript/blob/master/second%20week/js/switchCase.md)
-   1. [Switch Case](https://github.com/bashocode/javascript/blob/master/second%20week/js/for.md)
+   1. [FOR LOOP](https://github.com/bashocode/javascript/blob/master/second%20week/js/for.md)
