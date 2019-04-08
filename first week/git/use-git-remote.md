@@ -1,5 +1,7 @@
 ## Git Remote
 
+[Tutorial on Youtube](https://youtu.be/FH4n0EXcB-E)
+
 Sudah mencoba mengerjakan tugas sebelumnya namun stuck ? baca ini dulu hehe
 
 1. Masuk ke akun github kita dulu

@@ -1,5 +1,7 @@
 ## Git Branch
 
+[Tutorial on Youtube](https://youtu.be/KtNBYgrhwVw)
+
 Kali ini kita akan belajar tentang git branch yang berguna untuk memisahkan antara project yang fix dan yang belum, jadi cara penggunaannya dalam sebuah tim development adalah kita akan membuat branch kita sendiri lalu orang lain akan membuat branch mereka sendiri dan tetap dalam satu repository, kalian pasti pernah menggunakan **git push origin master** kan ? lalu apa itu master ?
 
 _master_ bisa dibilang adalah induknya branch, jadi master ini akan menampung semua branch kalian yang sudah benar benar fix dan bisa di gabung loh, jadi sangat penting untuk menggunakan fitur ini.
