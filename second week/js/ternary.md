@@ -23,4 +23,4 @@ valueOne > valueTwo ? "outputTrue" : "outputFalse"
 
 Ingat! ada tanda **?** dan **:**
 
-dan sebelah kanan dari **:** adalah _true_, dan kirinya adalah _false_
+dan sebelah kiri dari **:** adalah _true_, dan kanannya adalah _false_
