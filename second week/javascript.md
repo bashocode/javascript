@@ -31,3 +31,4 @@
    1. [FOR LOOP](https://github.com/bashocode/javascript/blob/master/second%20week/js/for.md)
    1. [Exercise - Stars](https://github.com/bashocode/javascript/blob/master/second%20week/js/stars.md)
    1. [While loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/while.md)
+   1. [Do-While loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/dowhile.md)
