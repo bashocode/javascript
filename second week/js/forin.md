@@ -78,4 +78,4 @@ hasilnya
 3
 ```
 
-Tapi kita akan belajar for-of yang lebih enak di gunakan untuk array
+Tapi kita akan belajar for-of yang di gunakan untuk array
