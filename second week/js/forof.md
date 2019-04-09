@@ -31,3 +31,5 @@ for (let number of numbers) {
 ```
 
 Bagaimana ? Lebih simple bukan.
+
+Karena for-of akan mengambil nilai setiap index dari array, kalau for-in mengambil index dari array bukan nilai setiap indexnya.
