@@ -34,3 +34,4 @@
    1. [Do-While loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/dowhile.md)
    1. [Infinite loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/infinite.md)
    1. [For-in loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/forin.md)
+   1. [For-of loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/forof.md)
