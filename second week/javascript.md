@@ -30,3 +30,4 @@
    1. [Switch Case](https://github.com/bashocode/javascript/blob/master/second%20week/js/switchCase.md)
    1. [FOR LOOP](https://github.com/bashocode/javascript/blob/master/second%20week/js/for.md)
    1. [Exercise - Stars](https://github.com/bashocode/javascript/blob/master/second%20week/js/stars.md)
+   1. [While loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/while.md)
