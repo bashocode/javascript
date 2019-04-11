@@ -36,5 +36,5 @@ const phone = {
 
 phone.merk(); // memanggil function dalam object
 console.log(phone.screenType); // memanggil key dalam object
-console.log(phone.camera[0]);
+console.log(phone.camera[0].front); // memanggil key di dalam object yang ada di dalam array dan di dalam key of object
 ```
