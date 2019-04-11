@@ -88,4 +88,22 @@ console.log(bulan, some);
 
 Bagaimana jika kita lupa untuk menambahkan break ? Ya ! Semua statement akan di jalankan dari case yang terpilih sampai case terakhir.
 
+Kita juga bisa menggunakan string juga kok di case nya, misalkan kita ingin membedakan admin dan user, bisa seperti ini
+ 
+ ```javascript
+ let role = "admin";
+ 
+ switch (role) {
+  case "admin":
+    console.log("admin");
+    break;
+  case "user":
+    console.log("user");
+    break;
+  default:
+    console.log("siapa ya?");
+    break;
+ }
+ ```
+
 Dan kondisi diatas bisa kita rubah ke dalam IF-ELSE loh, mau tau ? Coba aja
