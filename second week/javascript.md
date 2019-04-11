@@ -36,3 +36,5 @@
    1. [Infinite loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/infinite.md)
    1. [For-in loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/forin.md)
    1. [For-of loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/forof.md)
+1. More from Object
+   1. [Get More from Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/intro.md)

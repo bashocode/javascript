@@ -1,4 +1,4 @@
-# Basics of Object
+# Get More from Object
 
 Sebelumnya kita sudah menyinggung tentang object dan kali ini kita akan mengenal lebih dekat dengan object. Di dalam object kita bisa memberikan tipe data apa saja yang kita mau,
 
