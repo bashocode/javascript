@@ -64,6 +64,8 @@ ini index ke 1 dan berupa angka 3
 
 Kenapa ada **Number** disitu ? itu adalah function yang berguna untuk merubah string menjadi Integer, ada beberapa cara untuk merubah string menjadi integer, yakni **Number, parseInt, dan parseFloat**
 
+Dan ingat bahwa if hanya akan di kerjakan jika bernilai true atau truthy, dan kita tau bahwa NaN adalah falsy.
+
 ```javascript
 console.log(parseInt("42.1px")); // 42
 console.log(Number("42.1px")); // NaN
