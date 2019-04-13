@@ -12,6 +12,7 @@
    1. [Intro to Function](https://github.com/bashocode/javascript/blob/master/second%20week/js/basicFuntion.md)
    1. [More from Console](https://github.com/bashocode/javascript/blob/master/second%20week/js/console.md)
    1. [Commenting Code](https://github.com/bashocode/javascript/blob/master/second%20week/js/comment.md)
+   1. [What is TypeOf](https://github.com/bashocode/javascript/blob/master/second%20week/js/typeof.md)
 1. Operators in JavaScript
    1. [Arithmetic](https://github.com/bashocode/javascript/blob/master/second%20week/js/arithmetic.md)
    1. [Assignment](https://github.com/bashocode/javascript/blob/master/second%20week/js/assignment.md)
