@@ -28,7 +28,8 @@ const stringuNumber = String(numbers);
 
 console.log(stringNumber); // "23"
 
-String(true); // "true"
+const myBoolString = String(true); // "true"
+console.log(myBoolString);
 
 // atau menggunakan
 
@@ -62,7 +63,9 @@ Lalu ada hal menarik nih, tau **ascii** ? coba [kesini](http://www.asciitable.co
 Lihat bagian table angka HTML dan charnya,
 
 ```javascript
-String.fromCharCode(104, 101, 108, 108, 111); //"hello"
+const unique = String.fromCharCode(104, 101, 108, 108, 111); //"hello"
+
+console.log(unique);
 ```
 
 Cocok ?
