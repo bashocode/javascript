@@ -35,6 +35,28 @@ String(true); // "true"
 const secondStringNum = numbers.toString();
 ```
 
+Kapan kita menggunakannya ? Lagi lagi tergantung kondisi, misalkan kita ingin mencari angka genap
+
+```javascript
+// carilah angka genap
+
+function findEvenNumber(number) {
+  // ubah dulu si number ke string, karena number ga bisa di looping
+  const stringNum = String(number);
+
+  // looping si stringNum, untuk mengambil satu per satu value
+  for (let i = 0; i < stringNum.length; i++) {
+    // cari angka yang genap, tentu tidak bisa kalau masih berupa string
+    if (Number(stringNum[i]) % 2 === 0) {
+      // return angkanya
+      return stringNum[i];
+    }
+  }
+}
+
+console.log(findEvenNumber(123));
+```
+
 Lalu ada hal menarik nih, tau **ascii** ? coba [kesini](http://www.asciitable.com/)
 
 Lihat bagian table angka HTML dan charnya,
