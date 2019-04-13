@@ -1,6 +1,6 @@
 ## Create new repository
 
-[Tutorial on Youtube](https://www.youtube.com/watch?v=jZgfqr8870g&list=PL23EfJ905QNOHff6VrK3BAh462H2r_EC8&index=5&t=0s)
+[![New Repo](http://i3.ytimg.com/vi/jZgfqr8870g/maxresdefault.jpg)](https://www.youtube.com/watch?v=jZgfqr8870g&list=PL23EfJ905QNOHff6VrK3BAh462H2r_EC8&index=5&t=0s)
 
 1. Masuk ke profile git kalian, tampilannya seperti ini.
 
