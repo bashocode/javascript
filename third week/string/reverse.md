@@ -39,4 +39,38 @@ function reverseString(str) {
 console.log(reverseString("bashocode"));
 ```
 
+Split adalah cara untuk memisahkan string per karakter, logikanya sama kayak kita menggunakan for, jadi di ambil satu per satu,
+
+```
+b
+a
+s
+h
+o
+c
+o
+d
+e
+```
+
+Lalu Reverse adalah fungsinya membalikkan string yang sudah terpisah pisah
+
+```
+e
+d
+o
+c
+o
+h
+s
+a
+b
+```
+
+Baru kemudian Join, untuk menambahkan karakter menjadi satu
+
+```
+edocohsab
+```
+
 Well, mau pilih cara mana itu terserah, namun cara manual bisa melatih otak kita untuk paham alur kerja dari komputer, maka saya sarankan teruslah berlatih logic dengan mengerjakan sesuatu menggunakan cara manual di samping menggunakan built in method (gunakan bebarengan)
