@@ -42,5 +42,6 @@
    1. [Backticks](https://github.com/bashocode/javascript/blob/master/third%20week/string/backtick.md)
    1. [Understanding String](https://github.com/bashocode/javascript/blob/master/third%20week/string/understand.md)
    1. [Reverse String](https://github.com/bashocode/javascript/blob/master/third%20week/string/reverse.md)
+   1. [Built In Function of String](https://github.com/bashocode/javascript/blob/master/third%20week/string/builtin.md)
 1. More from Object
    1. [Get More from Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/intro.md)
