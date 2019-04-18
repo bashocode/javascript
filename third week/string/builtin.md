@@ -130,7 +130,7 @@ Contohnya
 ```javascript
 const name = "bashocode";
 // karena kita ingin mengambil sampai index terakhir, maka tidak perlu mengisi parameter kedua
-let result = name.substring(5);
+const result = name.substring(5);
 
 console.log(result); // code
 
