@@ -135,7 +135,7 @@ let result = name.substring(5);
 console.log(result); // code
 
 // kalau kita ingin membatasi index terakhir kita bisa coba seperti ini
-var str = "bashocode";
+const str = "bashocode";
 
 console.log(str.substring(3, 6)); // hoc
 // Index ke 6 harusnya o bukan ? kenapa dia tidak ikut ? Karena memang index terakhir tidak akan di tampilkan
