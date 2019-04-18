@@ -102,3 +102,41 @@ const indexOfBootcamp = bootcamp.indexOf("code");
 
 console.log(indexOfBootcamp);
 ```
+
+# SubString
+
+Jika kita ingin mengambil potongan dari sebuah string, misalkan **code** dari **bashocode** kita mungkin akan menggunakan
+
+```javascript
+const name = "bashocode";
+let result = "";
+
+// kenapa i = 5 ? karena kita ingin mengambil dari index ke 5, yakni c.
+for (let i = 5; i < name.length; i++) {
+  result += name[i];
+}
+
+console.log(result); // code
+```
+
+Tapi di javascript, kita bisa menggunakan substring
+
+```javascript
+str.substring(indexStart, indexEnd);
+```
+
+Contohnya
+
+```javascript
+const name = "bashocode";
+// karena kita ingin mengambil sampai index terakhir, maka tidak perlu mengisi parameter kedua
+let result = name.substring(5);
+
+console.log(result); // code
+
+// kalau kita ingin membatasi index terakhir kita bisa coba seperti ini
+var str = "bashocode";
+
+console.log(str.substring(3, 6)); // hoc
+// Index ke 6 harusnya o bukan ? kenapa dia tidak ikut ? Karena memang index terakhir tidak akan di tampilkan
+```
