@@ -103,7 +103,7 @@ const indexOfBootcamp = bootcamp.indexOf("code");
 console.log(indexOfBootcamp);
 ```
 
-# SubString
+### SubString
 
 Jika kita ingin mengambil potongan dari sebuah string, misalkan **code** dari **bashocode** kita mungkin akan menggunakan
 
@@ -139,4 +139,30 @@ const str = "bashocode";
 
 console.log(str.substring(3, 6)); // hoc
 // Index ke 6 harusnya o bukan ? kenapa dia tidak ikut ? Karena memang index terakhir tidak akan di tampilkan
+```
+
+### Slice
+
+Slice fungsinya hampir sama seperti substring, namun kita bisa mengambil dari belakang
+
+```javascript
+str.slice(indexStart, indexEnd);
+```
+
+Contohnya
+
+```javascript
+var str = "bashocode";
+
+console.log(str.slice(5, 8)); // cod
+console.log(str.slice(5)); // code
+```
+
+cara mengambil dari belakang adalah seperti ini
+
+```javascript
+var str = "bashocode";
+
+console.log(str.slice(-2)); // de
+console.log(str.slice(-7, -2)); // shoco
 ```
