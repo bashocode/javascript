@@ -166,3 +166,23 @@ var str = "bashocode";
 console.log(str.slice(-2)); // de
 console.log(str.slice(-7, -2)); // shoco
 ```
+
+### to(Upper/Lower)Case
+
+Bagaimana caranya agar "bashocode" menjadi "BASHOCODE" ? pakai ini
+
+```javascript
+const bootcamp = "bashocode";
+
+const anotherBootcamp = bootcamp.toUpperCase();
+console.log(anotherBootcamp); // BASHOCODE
+```
+
+Lalu, untuk kebalikannya ?
+
+```javascript
+const bootcamp = "BASHOCODE";
+
+const anotherBootcamp = bootcamp.toLowerCase();
+console.log(anotherBootcamp); // bashocode
+```
