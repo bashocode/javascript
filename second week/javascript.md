@@ -45,3 +45,4 @@
    1. [Built In Function of String](https://github.com/bashocode/javascript/blob/master/third%20week/string/builtin.md)
 1. More from Object
    1. [Get More from Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/intro.md)
+   1. [Factory Function](https://github.com/bashocode/javascript/blob/master/third%20week/object/factory.md)
