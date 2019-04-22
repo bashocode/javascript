@@ -26,6 +26,8 @@ function Phone(price, brand) {
 const phone1 = new Phone(999, "Grape");
 const phone2 = new Phone(888, "Siosung");
 const phone3 = new Phone(777, "Ovvo");
+// contoh memanggil function
+console.log(phone1.merk());
 ```
 
 Lihat, kita harus menggunakan **=** dan untuk memanggil functionnya, kita menggunakan **new**
