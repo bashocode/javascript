@@ -26,7 +26,7 @@ function Phone(price, brand) {
 const phone1 = new Phone(999, "Grape");
 const phone2 = new Phone(888, "Siosung");
 const phone3 = new Phone(777, "Ovvo");
-// contoh memanggil function
+// contoh
 console.log(phone1.merk());
 ```
 
