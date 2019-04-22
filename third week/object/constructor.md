@@ -17,10 +17,10 @@ Baik mari kita langsung mencoba!
 
 ```javascript
 function Phone(price, brand) {
-  (this.price = price),
-    (this.merk = function() {
-      console.log(brand);
-    });
+  this.price = price,
+  this.merk = function() {
+    console.log(brand);
+  };
 }
 
 const phone1 = new Phone(999, "Grape");
