@@ -46,3 +46,4 @@
 1. More from Object
    1. [Get More from Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/intro.md)
    1. [Factory Function](https://github.com/bashocode/javascript/blob/master/third%20week/object/factory.md)
+   1. [Constructor Function](https://github.com/bashocode/javascript/blob/master/third%20week/object/constructor.md)
