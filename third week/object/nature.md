@@ -41,14 +41,6 @@ Namun, jika kita merubah isi di dalamnya tetap bisa, seperti contoh sebelumnya, 
 
 ```javascript
 const phone = {
-  merk: "Yeskia"
-};
-```
-
-Kita bisa menambah key di dalam constant phone
-
-```javascript
-const phone = {
   brand: "Yeskia"
 };
 
