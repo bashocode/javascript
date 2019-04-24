@@ -2,14 +2,14 @@
 
 Sebelumnya kita sudah menyinggung tentang object dan kali ini kita akan mengenal lebih dekat dengan object. Di dalam object kita bisa memberikan tipe data apa saja yang kita mau,
 
-*string
-*number
-*undefined
-*null
-*boolean
-*array
-*object
-*bahkan function
+- string
+- number
+- undefined
+- null
+- boolean
+- array
+- object
+- bahkan function
 
 Contoh penggunaan object sebenarnya bisa kita lihat di sekitar kita, misalnya sebuah ponsel, dia punya kamera, punya layar, punya sistem operasi, dll.
 
