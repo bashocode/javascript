@@ -50,4 +50,4 @@ Math.pow(2, 2); // 4
 Math.pow(3, 2); // 9
 ```
 
-Nah, sekian untuk Math, kita bisa melihat Math lain di dokumentasi [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+Nah, sekian untuk Math, kita bisa melihat Math lain di dokumentasi [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
