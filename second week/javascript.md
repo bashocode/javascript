@@ -50,3 +50,4 @@
    1. [Inside of Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/nature.md)
    1. [Iterate an Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/iterate.md)
    1. [Cloning an Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/clone.md)
+   1. [Math](https://github.com/bashocode/javascript/blob/master/third%20week/object/math.md)
