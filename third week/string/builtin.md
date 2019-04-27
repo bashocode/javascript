@@ -186,3 +186,5 @@ const bootcamp = "BASHOCODE";
 const anotherBootcamp = bootcamp.toLowerCase();
 console.log(anotherBootcamp); // bashocode
 ```
+
+Kalian bisa cek dokumentasi [mozilla](https://developer.mozilla.org/id/docs/Web/JavaScript/Reference/Global_Objects/String) untuk melihat method method yang lain
