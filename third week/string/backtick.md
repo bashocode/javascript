@@ -8,19 +8,19 @@ Sebelumnya kita sudah mencoba kode ini bukan
 function validateName(string) {
   for (let i = 0; i < string.length; i++) {
     if (Number(string[i])) {
-      return "ini index ke " + i + " dan berupa angka " + string[i];
+      return 'ini index ke ' + i + ' dan berupa angka ' + string[i];
     }
   }
 }
 
-const name = "w3basho";
+const name = 'w3basho';
 console.log(validateName(name));
 ```
 
 Daripada kita menulis
 
 ```javascript
-return "ini index ke " + i + " dan berupa angka " + string[i];
+return 'ini index ke ' + i + ' dan berupa angka ' + string[i];
 ```
 
 Dengan backtick kita bisa menulis lebih mudah, tanpa menggunakan operator **+**
@@ -34,8 +34,17 @@ function validateName(string) {
   }
 }
 
-const name = "w3basho";
+const name = 'w3basho';
 console.log(validateName(name));
 ```
 
-Namun, kita harus menambahkan dollar dan kurung kurawal ya,
+Namun, kita harus menambahkan dollar dan kurung kurawal ya
+
+Dan kita juga bisa menggunakan backtick ini untuk memberikan break line
+
+```javascript
+const paragraph = `I am a new paragraph.
+And, you can make a new 'break line' inside of me.`;
+
+console.log(paragraph);
+```
