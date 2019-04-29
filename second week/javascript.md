@@ -55,3 +55,4 @@
    1. [Date](https://github.com/bashocode/javascript/blob/master/third%20week/object/date.md)
 1. Array is Awesome
    1. [Adding an Elements](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/add.md)
+   1. [Remove an Elements](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/remove.md)
