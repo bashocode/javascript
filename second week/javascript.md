@@ -1,6 +1,7 @@
 # Belajar JavaScript
 
-1. [What is JavaScript ?](https://github.com/bashocode/javascript/blob/master/second%20week/js/introduction.md)
+1. Introduction to JavaScript
+   1. [What is JavaScript ?](https://github.com/bashocode/javascript/blob/master/second%20week/js/introduction.md)
 1. Getting Started with JavaScript
    1. [First Touch into JavaScript](https://github.com/bashocode/javascript/blob/master/second%20week/js/start.md)
    1. [Window ?](https://github.com/bashocode/javascript/blob/master/second%20week/js/window.md)
@@ -52,3 +53,5 @@
    1. [Cloning an Object](https://github.com/bashocode/javascript/blob/master/third%20week/object/clone.md)
    1. [Math](https://github.com/bashocode/javascript/blob/master/third%20week/object/math.md)
    1. [Date](https://github.com/bashocode/javascript/blob/master/third%20week/object/date.md)
+1. Array is Awesome
+   1. [Adding an Elements](https://github.com/bashocode/javascript/blob/master/third%20week/object/add.md)
