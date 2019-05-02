@@ -58,3 +58,4 @@
    1. [Remove an Elements](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/remove.md)
    1. [Find an Elements](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/find.md)
    1. [Emptying an Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/empty.md)
+   1. [Combined and Slicing Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/combined.md)
