@@ -64,3 +64,4 @@
    1. [Joining Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/join.md)
    1. [Sorting Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/sort.md)
    1. [Search Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/search.md)
+   1. [Filter Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/filter.md)
