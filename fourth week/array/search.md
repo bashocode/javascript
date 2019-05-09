@@ -39,3 +39,5 @@ const allPositive = numbers.some(function(value) {
 
 console.log(allPositive); // true
 ```
+
+Kalian juga bisa menggunakan arrow function, sebagai latihan rubah semua function diatas menjadi arrow function
