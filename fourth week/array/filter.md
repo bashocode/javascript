@@ -27,3 +27,5 @@ const anotherPositive = numbers.filter(num => num >= 0);
 ```
 
 Karena hanya satu line code, maka kita bisa menghapus curly braces dan return.
+
+Ada juga method lain yang namanya map, sebagai tugas. Coba untuk mencari tau tentang map.
