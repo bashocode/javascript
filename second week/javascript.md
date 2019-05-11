@@ -38,6 +38,7 @@
    1. [Infinite loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/infinite.md)
    1. [For-in loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/forin.md)
    1. [For-of loop](https://github.com/bashocode/javascript/blob/master/second%20week/js/forof.md)
+   1. [Exercise - sum](https://github.com/bashocode/challenge/blob/master/neko/sum.js)
 1. Play with String
    1. [More Deep from String](https://github.com/bashocode/javascript/blob/master/third%20week/string/intro.md)
    1. [Backticks](https://github.com/bashocode/javascript/blob/master/third%20week/string/backtick.md)
