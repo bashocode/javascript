@@ -22,3 +22,13 @@ const thirdDate = new Date(1999, 4, 23, 0, 0, 0);
 ```
 
 Di dalam vscode, jika kita mengetik new Date(), nanti akan muncul parameter parameter seperti tahunnya dulu, baru kemudian bulan, kemudian tanggal, dan jam, menit, detik dll. Silakan di coba-coba ya.
+
+Jika kita ingin mencari dengan timezone yang sama di tempat kita bisa kita coba seperti ini
+
+```javascript
+const firstDate = new Date(Date.UTC(1999, 4, 23));
+
+console.log(firstDate);
+```
+
+Yakni menggunakan Date.UTC
