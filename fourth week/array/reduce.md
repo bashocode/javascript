@@ -40,4 +40,4 @@ const total = numbers.reduce((accumulator, value) => {
 });
 ```
 
-Kita juga bisa menghilangkan argumen kedua, dan kemudian secara otomatis initial value akan menjadi index pertama yakni 0 dari sebuah array
+Kita juga bisa menghilangkan argumen kedua, dan kemudian secara otomatis initial value akan menjadi index pertama dari sebuah array
