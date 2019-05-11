@@ -27,8 +27,8 @@ const total = numbers.reduce((accumulator, value) => {
 reduce menerima dua argumen,
 
 argumen pertama yakni callback function yang mempunyai dua parameter
-  -accumulator yang fungsinya sama seperti variable sum (sebagai penampung hasil),
-  -dan value yang fungsinya mengambil setiap index di dalam sebuah array
+  * accumulator yang fungsinya sama seperti variable sum (sebagai penampung hasil),
+  * dan value yang fungsinya mengambil setiap index di dalam sebuah array
 
 argumen kedua, nilai 0 yakni initial valuenya, dan kenapa 0 ? karena sama dengan apa yang kita inisialisasikan di variable sum
 
