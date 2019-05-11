@@ -77,3 +77,21 @@ console.log(anotherPhone);
 ```
 
 Spread operator adalah **...** (titik tiga), dia akan mengambil semua property dari phone, dan kita membungkusnya di dalam object literal **{}** (kurung kurawal).
+
+```javascript
+const phone = {
+  brand: "Xiaosung",
+  price: 199
+};
+
+const camera = {
+  front: [12, 12],
+  back: [12, 12, 12, 12, 12]
+};
+
+const anotherPhone = { ...phone, os: 'Android', ...camera };
+
+console.log(anotherPhone);
+```
+
+Dan kita bisa menambah value sesuka kita seperti contoh diatas
