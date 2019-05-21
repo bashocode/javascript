@@ -6,7 +6,7 @@ Di ES6 ada cara yang lebih mudah untuk menggabungkan dua array atau lebih, yakni
 const firstArr = [1, 2, 3];
 const secondArr = [7, 8, 9];
 
-const thirdArr = [...firstArr, secondArr];
+const thirdArr = [...firstArr, ...secondArr];
 // [1, 2, 3, 7, 8, 9]
 
 const fourthArr = [...firstArr, 4, 5, 6, ...secondArr];
