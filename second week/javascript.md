@@ -69,4 +69,5 @@
    1. [Reduce Array](https://github.com/bashocode/javascript/blob/master/fourth%20week/array/reduce.md)
 1. Dive to Function
    1. [Types of Function](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/basic.md)
+   1. [Hoisting](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/hoisting.md)
    1. [Arguments](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/argument.md)
