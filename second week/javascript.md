@@ -72,3 +72,4 @@
    1. [Hoisting](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/hoisting.md)
    1. [Arguments](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/argument.md)
    1. [Rest Operator](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/rest.md)
+   1. [Parameter](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/parameter.md)
