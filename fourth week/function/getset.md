@@ -65,10 +65,14 @@ Penjelasannya
 1. Set di gunakan jika kita mempassing nama lain kedalamnya, dan saat itulah get dan set bekerja
 1. Kenapa split ? karena kita mempassing 'John Doe' dan ada spasi disana
 1. Index ke 0 adalah John, dan ke 1 adalah Doe
-1. Kita seperti memanggil function dengan mempassing valuenya (optional, boleh di comment dulu)
+1. Kita seperti memanggil function dengan mempassing valuenya
 
 ```javascript
 person.fullName('John Doe');
 ```
+
+Lalu coba di comment dulu deh untuk tau bedanya, code nomer 5.
+
+Dan untuk this, nanti akan ada penjelasannya.
 
 Jadi get dan set akan bekerja jika kita memanggil functionnya tentunya tanpa _invoke_ atau kita juga ingin mengganti valuenya (jadi valuenya dinamis sesuai dengan inputan)
