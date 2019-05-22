@@ -14,6 +14,7 @@
 
 ### Install Code Editor
 
+- [VScodium](https://vscodium.com/) reccomended!
 - [Visual Studio Code](https://code.visualstudio.com/)
   atau
 - [Atom](https://atom.io/)
@@ -25,7 +26,6 @@
 
 ### Install Node JS
 
-[Apa itu NodeJS ?](https://www.codepolitan.com/mengenal-nodejs-5880234fe9ae3)
 Kita perlu menginstall **NodeJS** agar code javascript kita bisa berjalan di komputer kita sendiri tanpa harus menggunakan browser, singkatnya _NodeJS_ itu mempermudah kita untuk belajar JavaScript!
 
 [Download NodeJS disini](https://nodejs.org/en/download/)
