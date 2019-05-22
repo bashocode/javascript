@@ -73,3 +73,4 @@
    1. [Arguments](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/argument.md)
    1. [Rest Operator](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/rest.md)
    1. [Parameter](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/parameter.md)
+   1. [Getter and Setter](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/getset.md)
