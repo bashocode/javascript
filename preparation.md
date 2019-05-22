@@ -22,7 +22,7 @@
 ### Install Git and Git Bash
 
 [Git Download](https://git-scm.com/downloads)
-[Tutorial Install Git on Ubuntu](https://youtu.be/9PXYepsmKWQ)
+Tutorial instalasinya boleh cari di youtube
 
 ### Install Node JS
 
