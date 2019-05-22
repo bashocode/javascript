@@ -14,7 +14,7 @@
 
 ### Install Code Editor
 
-- [VScodium](https://vscodium.com/) reccomended!
+- [VScodium](https://vscodium.com/) Pilihan **BashoCode** 
 - [Visual Studio Code](https://code.visualstudio.com/)
   atau
 - [Atom](https://atom.io/)
