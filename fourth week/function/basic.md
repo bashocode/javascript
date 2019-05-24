@@ -1,4 +1,4 @@
-# Funtion Declaration vs Expression
+# Function Declaration vs Expression
 
 Dalam JavaScript ada dua tipe function, yakni declaration dan juga expression dan ini berbeda dengan performing atau calculating function. Silakan buka intro to function.
 
