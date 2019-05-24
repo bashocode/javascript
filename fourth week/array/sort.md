@@ -1,15 +1,11 @@
 # Sorting an Array
 
-Jika kita ingin mengurutkan array, kita bisa menggunakan sort dan reverse
-
-Sort jika kita ingin mengurutkan dari bawah ke atas, dan reverse dari atas ke bawah
+Jika kita ingin mengurutkan array, kita bisa menggunakan sort.
 
 ```javascript
 const numbers = [3, 1, 2];
 
 numbers.sort(); // [1, 2, 3]
-
-numbers.reverse(); // [3, 2, 1]
 ```
 
 Tapi cara ini tidak akan berhasil jika
