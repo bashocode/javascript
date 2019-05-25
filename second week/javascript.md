@@ -76,3 +76,4 @@
    1. [Getter and Setter](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/getset.md)
    1. [Try and Catch](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/trycatch.md)
    1. [Scope](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/scope.md)
+   1. [Avoid Var](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/var.md)

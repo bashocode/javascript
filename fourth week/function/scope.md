@@ -44,12 +44,30 @@ if (true) {
 console.log(word);
 ```
 
+Atau, sama saja dengan ini karena cuma satu line code jadi bisa di hapus kurung kurawalnya
+
+```javascript
+if (true)
+  const word = 'hello';
+
+console.log(word);
+```
+
 1. loop
 
 ```javascript
 for (let i = 0; i < 5; i++) {
   const word = 'hello';
 }
+
+console.log(word);
+```
+
+atau
+
+```javascript
+for (let i = 0; i < 5; i++)
+  const word = 'hello';
 
 console.log(word);
 ```
