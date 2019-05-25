@@ -36,4 +36,3 @@ const/let => block scope
 ```
 
 var bisa kita akses dimana saja selama di dalam sebuah function, dan itu menjadi masalah selama ini sampai akhirnya ES6 (EcmaScript 2015) datang dan membawa const dan juga let yang memperbaiki hal ini.
-
