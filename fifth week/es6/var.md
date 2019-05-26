@@ -167,4 +167,4 @@ Opini kedua datang dari [Kyle Simpson:](blog.getify.com/constantly-confusing-con
 - gunakan `let` untuk local variable di dalam scope.
 - refactor `let` ke `const` hanya jika sudah ada valuenya dan yakin kita tidak akan menggantinya lain waktu.
 
-Sumber: [Alberto Montalesi](https://github.com/emzhofb/The-complete-guide-to-modern-JavaScript/blob/master/ebook/01_var_let_const.md)
+Sumber: [Alberto Montalesi](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript/blob/master/ebook/01_var_let_const.md)
