@@ -80,4 +80,5 @@
    1. [This Keyword](https://github.com/bashocode/javascript/blob/master/fourth%20week/function/this.md)
 1. ES6 and Beyond
    1. [Var, Let and Const](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/var.md)
+   1. [Scoping](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/scope.md)
    1. [Arrow Function](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/arrow.md)
