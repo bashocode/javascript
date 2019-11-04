@@ -82,3 +82,4 @@
    1. [Var, Let and Const](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/var.md)
    1. [Scoping](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/scope.md)
    1. [Arrow Function](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/arrow.md)
+   1. [Parameter](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/parameter.md)
