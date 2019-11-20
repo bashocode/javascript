@@ -85,3 +85,4 @@
    1. [Parameter](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/parameter.md)
    1. [Template Literals](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/template.md)
    1. [Enhanced Object](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/enhanced.md)
+   1. [Destructure](https://github.com/bashocode/javascript/blob/master/fifth%20week/es6/destructure.md)
