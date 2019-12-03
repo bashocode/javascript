@@ -23,26 +23,26 @@ Bagaimana jika menggunakan object, ini lebih mantep lagi karena dengan destructu
 
 ```javascript
 class Car {
-	constructor(merk, model, price) {
-		this.merk = merk;
-		this.model = model;
-		this.price = price;
-	}
+  constructor(merk, model, price) {
+    this.merk = merk;
+    this.model = model;
+    this.price = price;
+  }
 
-	merk() {
-		return this.merk;
-	}
+  merk() {
+    return this.merk;
+  }
 
-	model() {
-		return this.model;
-	}
+  model() {
+    return this.model;
+  }
 
-	price() {
-		return this.price;
-	}
+  price() {
+    return this.price;
+  }
 }
 
-const { merk, model, price } = new Car('BMW', 'Sport', '120k');
+const { merk, model, price } = new Car("BMW", "Sport", "120k");
 
 console.log(merk); // BMW
 console.log(model); // Sport
@@ -53,26 +53,26 @@ Bandingkan dengan cara biasa
 
 ```javascript
 class Car {
-	constructor(merk, model, price) {
-		this.merk = merk;
-		this.model = model;
-		this.price = price;
-	}
+  constructor(merk, model, price) {
+    this.merk = merk;
+    this.model = model;
+    this.price = price;
+  }
 
-	merk() {
-		return this.merk;
-	}
+  merk() {
+    return this.merk;
+  }
 
-	model() {
-		return this.model;
-	}
+  model() {
+    return this.model;
+  }
 
-	price() {
-		return this.price;
-	}
+  price() {
+    return this.price;
+  }
 }
 
-const car = new Car('BMW', 'Sport', '120k');
+const car = new Car("BMW", "Sport", "120k");
 
 console.log(car.merk); // BMW
 console.log(car.model); // Sport
