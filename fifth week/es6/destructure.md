@@ -28,18 +28,6 @@ class Car {
     this.model = model;
     this.price = price;
   }
-
-  merk() {
-    return this.merk;
-  }
-
-  model() {
-    return this.model;
-  }
-
-  price() {
-    return this.price;
-  }
 }
 
 const { merk, model, price } = new Car("BMW", "Sport", "120k");
@@ -58,18 +46,6 @@ class Car {
     this.model = model;
     this.price = price;
   }
-
-  merk() {
-    return this.merk;
-  }
-
-  model() {
-    return this.model;
-  }
-
-  price() {
-    return this.price;
-  }
 }
 
 const car = new Car("BMW", "Sport", "120k");
@@ -80,3 +56,29 @@ console.log(car.price); // 120k
 ```
 
 Lebih singkat ga ? dikit sih, tapi syaratnya harus sama ya di dalam destructure dan dalam classnya, biasanya sering di gunakan saat kita memakai module module dari npm.
+
+Ada juga yang lebih dalam lagi, misalkan object di dalam object, caranya gimana ? mari kita cari tahu
+
+```javascript
+class Car {
+	constructor(merk, model, price) {
+		this.merk = {
+			nameOfMerk: merk
+		};
+		this.model = model;
+		this.price = price;
+	}
+}
+
+const { merk: { nameOfMerk: sayMerk }, model, price } = new Car("BMW", "Sport", "120k");
+
+console.log(sayMerk); // BMW
+console.log(model); // Sport
+console.log(price); // 120k
+```
+
+Seperti contoh kode diatas, kenapa kita bisa destructure di dalam destructure ? oh ya, ini agak mengerikan kalau di pikirkan, mari di breakdown
+
+Pokonya *merk* yang di destructure namanya harus sama dengan yang constructor didalam class, dan didalam constructor ternyata adalah sebuah object, dan kita ingin mengambilnya, maka kita harus menyamakan key object *nameOfMerk* dan di ambil valuenya, terserah mau di namai apa, disini saya menamainya *sayMerk*
+
+Jadi pertama di ambil lah *merk* => ternyata *merk* ada di dalam constructor dan didalamnya adalah object. Kemudian, kita destructure lagi dan ambil key objectnya, dan masukkan valuenya kedalam penampung yang bernama *sayMerk*. Nah itulah kenapa kita akses *sayMerk* keluarnya BMW. Simple kan ?
