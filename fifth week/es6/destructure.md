@@ -61,16 +61,20 @@ Ada juga yang lebih dalam lagi, misalkan object di dalam object, caranya gimana 
 
 ```javascript
 class Car {
-	constructor(merk, model, price) {
-		this.merk = {
-			nameOfMerk: merk
-		};
-		this.model = model;
-		this.price = price;
-	}
+  constructor(merk, model, price) {
+    this.merk = {
+      nameOfMerk: merk
+    };
+    this.model = model;
+    this.price = price;
+  }
 }
 
-const { merk: { nameOfMerk: sayMerk }, model, price } = new Car("BMW", "Sport", "120k");
+const {
+  merk: { nameOfMerk: sayMerk },
+  model,
+  price
+} = new Car("BMW", "Sport", "120k");
 
 console.log(sayMerk); // BMW
 console.log(model); // Sport
@@ -79,6 +83,6 @@ console.log(price); // 120k
 
 Seperti contoh kode diatas, kenapa kita bisa destructure di dalam destructure ? oh ya, ini agak mengerikan kalau di pikirkan, mari di breakdown
 
-Pokonya *merk* yang di destructure namanya harus sama dengan yang constructor didalam class, dan didalam constructor ternyata adalah sebuah object, dan kita ingin mengambilnya, maka kita harus menyamakan key object *nameOfMerk* dan di ambil valuenya, terserah mau di namai apa, disini saya menamainya *sayMerk*
+Pokonya _merk_ yang di destructure namanya harus sama dengan yang constructor didalam class, dan didalam constructor ternyata adalah sebuah object, dan kita ingin mengambilnya, maka kita harus menyamakan key object _nameOfMerk_ dan di ambil valuenya, terserah mau di namai apa, disini saya menamainya _sayMerk_
 
-Jadi pertama di ambil lah *merk* => ternyata *merk* ada di dalam constructor dan didalamnya adalah object. Kemudian, kita destructure lagi dan ambil key objectnya, dan masukkan valuenya kedalam penampung yang bernama *sayMerk*. Nah itulah kenapa kita akses *sayMerk* keluarnya BMW. Simple kan ?
+Jadi pertama di ambil lah _merk_ => ternyata _merk_ ada di dalam constructor dan didalamnya adalah object. Kemudian, kita destructure lagi dan ambil key objectnya, dan masukkan valuenya kedalam penampung yang bernama _sayMerk_. Nah itulah kenapa kita akses _sayMerk_ keluarnya BMW. Simple kan ?
