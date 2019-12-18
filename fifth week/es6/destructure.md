@@ -86,3 +86,37 @@ Seperti contoh kode diatas, kenapa kita bisa destructure di dalam destructure ? 
 Pokonya _merk_ yang di destructure namanya harus sama dengan yang constructor didalam class, dan didalam constructor ternyata adalah sebuah object, dan kita ingin mengambilnya, maka kita harus menyamakan key object _nameOfMerk_ dan di ambil valuenya, terserah mau di namai apa, disini saya menamainya _sayMerk_
 
 Jadi pertama di ambil lah _merk_ => ternyata _merk_ ada di dalam constructor dan didalamnya adalah object. Kemudian, kita destructure lagi dan ambil key objectnya, dan masukkan valuenya kedalam penampung yang bernama _sayMerk_. Nah itulah kenapa kita akses _sayMerk_ keluarnya BMW. Simple kan ?
+
+### Default Values
+
+ada fitur lagi yang mantap banget di ES6, ga perlu lagi kita musingin untuk ngasi default value memakai _ternary_,
+
+```javascript
+const obj = { name: "Bashocode" };
+const arr = ["javascript"];
+
+const { name, field = "programming" } = obj;
+const [a, b = "python"] = arr;
+
+console.log(name);
+console.log(field);
+console.log(a);
+console.log(b);
+```
+
+arti **field = 'programming'** adalah jika dia valuenya adalah undefined maka langsung di ganti dengan 'programming', kalau di ES5 kita biasa menggunakan ternary seperti ini
+
+```javascript
+var obj = { name: "Bashocode" };
+var arr = ["javascript"];
+
+var name = obj.name;
+var field = obj.field === undefined ? "programming" : obj.field;
+var a = arr[0];
+var b = arr[1] === undefined ? "python" : arr[1];
+
+console.log(name);
+console.log(field);
+console.log(a);
+console.log(b);
+```
