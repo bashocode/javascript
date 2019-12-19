@@ -120,3 +120,70 @@ console.log(field);
 console.log(a);
 console.log(b);
 ```
+
+### Parameter Matching
+
+Kita juga bisa memakai destructure ini untuk parameter sebuah function loh, ga percaya ?
+
+```javascript
+function who({ name, position }) {
+  console.log(`he is ${name}`);
+}
+
+function pos({ name: n, position: p }) {
+  console.log(`he work as a ${p}`);
+}
+
+// masih ingat dengan hanya memberi koma, untuk loncat ke index berikutnya ?
+function learn([first, , third]) {
+  console.log(first);
+  console.log(third);
+}
+
+const person = {
+  name: "Ikhda Muhammad Wildani",
+  position: "Software Engineer",
+  salary: 50000000, // Aaamiin, semoga bisa dapet 50jt sebulan wkwkwkwk
+  curency: "Rupiah"
+};
+const languange = ["javascript", "php", "golang", "python"];
+
+who(person);
+pos(person);
+learn(languange);
+```
+
+Nah, bagaimana jika memakai ES5 ? waah jadinya begini nih
+
+```javascript
+function who(arg) {
+  var name = arg.name;
+  console.log(`he is ${name}`);
+}
+
+function pos(arg) {
+  var n = arg.name;
+  var p = arg.position;
+  console.log(`he work as a ${p}`);
+}
+
+// masih ingat dengan hanya memberi koma, untuk loncat ke index berikutnya ?
+function learn(arg) {
+  var first = arg[0];
+  var third = arg[2];
+  console.log(first);
+  console.log(third);
+}
+
+var person = {
+  name: "Ikhda Muhammad Wildani",
+  position: "Software Engineer",
+  salary: 50000000, // Aaamiin, semoga bisa dapet 50jt sebulan wkwkwkwk
+  curency: "Rupiah"
+};
+var languange = ["javascript", "php", "golang", "python"];
+
+who(person);
+pos(person);
+learn(languange);
+```
