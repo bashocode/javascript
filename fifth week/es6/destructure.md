@@ -158,13 +158,13 @@ Nah, bagaimana jika memakai ES5 ? waah jadinya begini nih
 ```javascript
 function who(arg) {
   var name = arg.name;
-  console.log(`he is ${name}`);
+  console.log('he is ' + name);
 }
 
 function pos(arg) {
   var n = arg.name;
   var p = arg.position;
-  console.log(`he work as a ${p}`);
+  console.log('he work as a ' + p);
 }
 
 // masih ingat dengan hanya memberi koma, untuk loncat ke index berikutnya ?
